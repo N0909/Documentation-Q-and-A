@@ -1,0 +1,13 @@
+[project]
+name = "documentation-q-and-a"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "chromadb>=1.5.8",
+    "llama-index>=0.14.20",
+    "pypdf>=6.10.2",
+    "sentence-splitter>=1.4",
+    "sentence-transformers>=5.4.1",
+]

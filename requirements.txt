@@ -1,0 +1,4 @@
+pypdf
+llama-index
+chromadb
+sentence-transformers
